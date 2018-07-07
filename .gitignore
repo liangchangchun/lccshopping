@@ -1,0 +1,5 @@
+/shopping-common/.settings
+/shopping-parent/.settings
+/shopping-common/*.classpath
+/shopping-common/*.project
+/shopping-parent/*.project
